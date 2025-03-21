@@ -18,6 +18,10 @@
 - 🌐 Career interests in **Full Stack Development** & **AI/ML**
 - ✨ Passionate about learning, building, and solving real-world problems
 - 🎮 Big fan of  fitness , philosophy , science, anime & gaming in my free time
+---
+## ⚡ Motto  
+
+### ***" I WALK THROUGH FIRE — NOT TO BURN, BUT TO FORGE."***
 
 ---
 
@@ -64,10 +68,7 @@
 </p>
 
 ---
-## ⚡ Motto  
 
-### ***" I WALK THROUGH FIRE — NOT TO BURN, BUT TO FORGE."***
----
 
 ## 🐍 Contribution Snake
 

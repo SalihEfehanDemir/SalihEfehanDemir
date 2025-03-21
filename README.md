@@ -64,11 +64,9 @@
 </p>
 
 ---
-## ⚡ Motto
+## ⚡ Motto  
 
-> _““I walk through fire—not to burn, but to forge.””_
-
-
+### ***" I WALK THROUGH FIRE — NOT TO BURN, BUT TO FORGE."***
 ---
 
 ## 🐍 Contribution Snake

@@ -2,7 +2,7 @@
 <h3 align="center">👨‍💻 Computer Engineering Student | Full Stack & AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Full+Stack+%2B+AI+Developer+in+progress...;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Full+Stack+%2B+AI+Developer+in+progress...;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 - 🔭 Currently exploring **Machine Learning**, **Go**, **React**, and advanced **Python**
 - 🌐 Career interests in **Full Stack Development** & **AI/ML**
 - ✨ Passionate about learning, building, and solving real-world problems
-- 🎮 Big fan of philosophy, science, anime & gaming in my free time
+- 🎮 Big fan of  fitness , philosophy , science, anime & gaming in my free time
 
 ---
 
@@ -64,7 +64,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/SalihEfehanDemir/SalihEfehanDemir/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/SalihEfehanDemir/snk/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
@@ -88,7 +88,7 @@
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Motto
 
 > _“Stay curious. Keep learning. Keep building.”_
 
